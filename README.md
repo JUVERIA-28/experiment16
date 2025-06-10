@@ -16,5 +16,5 @@ python manage.py migrate
 python manage.py runserver
 
 GitHub Repo:
-🔗 https://github.com/yourusername/project16-django-todo
+🔗 https:https://github.com/JUVERIA-28/experiment16.git
 
